@@ -1,0 +1,12 @@
+﻿  BruteForce.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+BruteForce.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'byte', possible loss of data
+BruteForce.cpp(42): warning C4244: 'argument': conversion from 'double' to 'byte', possible loss of data
+  brute_force.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+  stdafx.cpp
+  Generating code
+  All 1188 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  brute_force.vcxproj -> C:\Users\roman\Desktop\brute_force\x64\Release\brute_force.exe
+  brute_force.vcxproj -> C:\Users\roman\Desktop\brute_force\x64\Release\brute_force.pdb (Full PDB)

@@ -1,0 +1,15 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  adhoc.cpp
+  bench1.cpp
+  bench2.cpp
+  datatest.cpp
+  dlltest.cpp
+  fipsalgt.cpp
+  regtest.cpp
+  test.cpp
+  validat1.cpp
+  validat2.cpp
+  validat3.cpp
+  Generating Code...
+  cryptest.vcxproj -> C:\Users\Pirogov_R\Desktop\brute_force\CryptoPP\x64\Output\Release\cryptest.exe
+  cryptest.vcxproj -> x64\Output\Release\\cryptlib.pdb (Full PDB)
